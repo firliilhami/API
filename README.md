@@ -33,7 +33,7 @@ Untuk mengetest model yang sudah kita deploy kita menggunakan POSTMAN
 
 #### Bagaimana cara menuliskan inputnya
 Jika hanya menginputkan 1 data customer :
-*Contoh : {"BILL_AMT1":12000,"BILL_AMT2":10000,"BIL_AMT3":11000}
+* Contoh : {"BILL_AMT1":12000,"BILL_AMT2":10000,"BIL_AMT3":11000}
 
 Jika menginput lebih dari 1 data customer (menggunakan tanda [ data1,data2,..,data n] :
  * Contoh 10 data customer : {"BILL_AMT1":[12000,120000,21000,31000,145000,12000,120000,21000,31000,145000],
