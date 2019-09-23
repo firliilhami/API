@@ -29,9 +29,9 @@ Untuk mengetest model yang sudah kita deploy kita menggunakan POSTMAN
 5. Buka ekstension POSTMAN, yaitu dengan cara ke default google chrome lalu pilih apps sesuai gambar berikut
  ![](https://raw.githubusercontent.com/firliilhami/API/master/buka_postman.png)
 6. Selanjutnya pilih POSTMAN sesuai gambar berikut:
- ![](https://raw.githubusercontent.com/firliilhami/API/master/buka_postman.png)
-7. Tampilan postman akan seperti berikut
  ![](https://raw.githubusercontent.com/firliilhami/API/master/pilih_postman.png)
+7. Tampilan postman akan seperti berikut
+ ![](https://raw.githubusercontent.com/firliilhami/API/master/gambar%20postman.png)
 8. Pada lingkaran yang berwarna oranye ubah menjadi POST
 9. Pada kotak berwarna biru isi dengan url server saya yaitu http://firli.pythonanywhere.com/api
 10. Pilih Body yaitu pada kotak berwarna coklat kemudian pilih raw.
