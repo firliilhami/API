@@ -24,7 +24,7 @@ Untuk mengetest model yang sudah kita deploy kita menggunakan POSTMAN
 3. Pilih add feature untuk menginstall chrome dan tunggu sampai instalasi selesai.
 4. Buka ekstension POSTMAN
 5. Tampilan postman akan seperti berikut
-6. ![](https://raw.githubusercontent.com/firliilhami/API/master/gambar%20postman.png)
+ ![](https://raw.githubusercontent.com/firliilhami/API/master/gambar%20postman.png)
 7. Pada lingkaran yang berwarna oranye ubah menjadi POST
 8. Pada kotak berwarna biru isi dengan url server saya yaitu http://firliilhami.pythonanywhere.com/api
 9. Pilih Body yaitu kotak coklat
