@@ -2,7 +2,7 @@
 url : http://firliilhami.pythonanywhere.com/api <br>
 kodingan pada server pythonanywhere: https://www.pythonanywhere.com/user/firliilhami/shares/bdc2720b1a8248bcb54d22062e3d06c5/
 ## 1. Penjelasan Model
-Model ini adalah model untuk menentukan apakah seorang customer akan telat membayar tagihannya atau membayar tagihan tepat waktu. Model ini menggunakan metode regresi logistik yang merupakan binary model dimana output model kita ada ada 2:
+Model ini adalah model untuk menentukan apakah seorang customer akan telat membayar tagihannya atau membayar tagihan tepat waktu. Model ini menggunakan metode random forest dimana output model kita ada ada 2:
 * Customer ke n telat membayar
 * Customer ke n tidak telat membayar
 
@@ -13,7 +13,7 @@ Model ini menggunakan 3 feature untuk memprediksi apakah orang tersebut akan tel
 
 ## 2. Run pada server PythonAnywhere
 Model ini akan melakukan run 'flaskk_app.py' pada server pythonanywhere .
-Pada server pythonanywhere diupload model1pkl. yang merupakan model regresi logistik yang sudah dibuat dan sudah ditrain dengan data yang kita punya.
+Pada server pythonanywhere diupload rf_model.pkl. yang merupakan model regresi logistik yang sudah dibuat dan sudah ditrain dengan data yang kita punya.
 
 ## 3. Test Model
 Untuk mengetest model yang sudah kita deploy kita menggunakan POSTMAN
