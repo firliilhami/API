@@ -1,0 +1,99 @@
+[{		
+		
+	"BILL_AMT1":1000,
+		
+	"BILL_AMT2":1500,
+		
+	"BILL_AMT3":1000
+	
+
+},
+
+{		
+		
+	"BILL_AMT1":2000,
+		
+	"BILL_AMT2":1500,
+		
+	"BILL_AMT3":2400
+	
+
+},	
+
+{		
+	"BILL_AMT1":2600,
+		
+	"BILL_AMT2":1200,
+		
+	"BILL_AMT3":2100
+	
+
+},	
+
+{		
+	"BILL_AMT1":2300,
+		
+	"BILL_AMT2":1800,
+		
+	"BILL_AMT3":1300
+	
+},
+
+{		
+	"BILL_AMT1":1350,
+		
+	"BILL_AMT2":2300,
+		
+	"BILL_AMT3":1200
+	
+
+},	
+
+{		
+	"BILL_AMT1":4300,
+		
+	"BILL_AMT2":2100,
+		
+	"BILL_AMT3":1200
+	
+
+},
+
+{	
+	"BILL_AMT1":2100,
+		
+	"BILL_AMT2":1300,
+		
+	"BILL_AMT3":1500
+	
+
+},
+
+{		
+	"BILL_AMT1":2500,
+
+	"BILL_AMT2":2300,
+		
+	"BILL_AMT3":2200
+	
+
+},
+
+{		
+	"BILL_AMT1":1200,
+		
+	"BILL_AMT2":1300,
+		
+	"BILL_AMT3":1400
+	
+
+},
+
+{		
+	"BILL_AMT1":1320,
+		
+	"BILL_AMT2":1460,
+		
+	"BILL_AMT3":2340
+	
+}]
