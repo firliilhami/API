@@ -25,15 +25,18 @@ Untuk mengetest model yang sudah kita deploy kita menggunakan POSTMAN
 1. HARUS menggunakan web browser google chrome karena akan menggunakan ekstension pada google chrome ( apabila sudah terdapat postman pada google chrome langsung ke poin '4'.
 2. Pada mesin pencari google search 'Postman Chrome'
 3. Pilih POSTMAN - Google Chrome  ( paling atas pada hasil pencarian )
-3. Pilih add feature untuk menginstall chrome dan tunggu sampai instalasi selesai.
-4. Buka ekstension POSTMAN
-5. Tampilan postman akan seperti berikut
- ![](https://raw.githubusercontent.com/firliilhami/API/master/gambar%20postman.png)
-7. Pada lingkaran yang berwarna oranye ubah menjadi POST
-8. Pada kotak berwarna biru isi dengan url server saya yaitu http://firli.pythonanywhere.com/api
-9. Pilih Body yaitu pada kotak berwarna coklat kemudian pilih raw.
-10. Lalu inputan value yang diingiinkan dituliskan pada kotak bewarna kuning . Bagaimana cara menuliskan inputannya diberitahu pada bagian selanjutnya.
-11. Terakhir klik Send
+4. Pilih add feature untuk menginstall chrome dan tunggu sampai instalasi selesai.
+5. Buka ekstension POSTMAN, yaitu dengan cara ke default google chrome lalu pilih apps sesuai gambar berikut
+ ![](https://raw.githubusercontent.com/firliilhami/API/master/buka_postman.png)
+6. Selanjutnya pilih POSTMAN sesuai gambar berikut:
+ ![](https://raw.githubusercontent.com/firliilhami/API/master/buka_postman.png)
+7. Tampilan postman akan seperti berikut
+ ![](https://raw.githubusercontent.com/firliilhami/API/master/pilih_postman.png)
+8. Pada lingkaran yang berwarna oranye ubah menjadi POST
+9. Pada kotak berwarna biru isi dengan url server saya yaitu http://firli.pythonanywhere.com/api
+10. Pilih Body yaitu pada kotak berwarna coklat kemudian pilih raw.
+11. Lalu inputan value yang diingiinkan dituliskan pada kotak bewarna kuning . Bagaimana cara menuliskan inputannya diberitahu pada bagian selanjutnya.
+12. Terakhir klik Send
 
 #### Bagaimana cara menuliskan inputnya
 Jika hanya menginputkan 1 data customer :
