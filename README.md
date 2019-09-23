@@ -28,7 +28,7 @@ Untuk mengetest model yang sudah kita deploy kita menggunakan POSTMAN
  ![](https://raw.githubusercontent.com/firliilhami/API/master/gambar%20postman.png)
 7. Pada lingkaran yang berwarna oranye ubah menjadi POST
 8. Pada kotak berwarna biru isi dengan url server saya yaitu http://firliilhami.pythonanywhere.com/api
-9. Pilih Body yaitu kotak coklat
+9. Pilih Body yaitu pada kotak berwarna coklat kemudian pilih raw.
 10. Lalu inputan value yang diingiinkan dituliskan pada kotak bewarna kuning . Bagaimana cara menuliskan inputannya diberitahu pada bagian selanjutnya.
 11. Terakhir klik Send
 
