@@ -1,5 +1,5 @@
 # Deploy Model Credit on My PythonAnywhere
-url : http://firliilhami.pythonanywhere.com/api
+url : http://firliilhami.pythonanywhere.com/api <br>
 python anywhere : https://www.pythonanywhere.com/user/firliilhami/shares/bdc2720b1a8248bcb54d22062e3d06c5/
 ## 1. Penjelasan Model
 Model ini adalah model untuk menentukan apakah seorang customer akan telat membayar tagihannya atau membayar tagihan tepat waktu. Model ini menggunakan metode regresi logistik yang merupakan binary model dimana output model kita ada ada 2:
