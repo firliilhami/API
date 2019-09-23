@@ -16,13 +16,13 @@ Model ini menggunakan 3 feature untuk memprediksi apakah orang tersebut akan tel
 
 ## 2. Run pada server PythonAnywhere
 Model ini akan melakukan run 'flaskk_app.py' pada server pythonanywhere .
-Pada server pythonanywhere diupload rf_model.pkl. yang merupakan model regresi logistik yang sudah dibuat dan sudah ditrain dengan data yang kita punya.
+Pada server pythonanywhere diupload model1.pkl. yang merupakan model regresi logistik yang sudah dibuat dan sudah ditrain dengan data yang kita punya.
 
 ## 3. Test Model
 Untuk mengetest model yang sudah kita deploy kita menggunakan POSTMAN
 
 ### Cara menggunakan POSTMAN :
-1. HARUS menggunakan web browser google chrome karena akan menggunakan ekstension pada google chrome ( apabila sudah terdapat postman pada google chrome langsung ke poin '4'.
+1. HARUS menggunakan web browser google chrome karena akan menggunakan ekstension pada google chrome ( apabila sudah terdapat postman pada google chrome langsung ke poin '5'.
 2. Pada mesin pencari google search 'Postman Chrome'
 3. Pilih POSTMAN - Google Chrome  ( paling atas pada hasil pencarian )
 4. Pilih add feature untuk menginstall chrome dan tunggu sampai instalasi selesai.
