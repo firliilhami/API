@@ -23,5 +23,21 @@ Untuk mengetest model yang sudah kita deploy kita menggunakan POSTMAN
 3. Pilih POSTMAN - Google Chrome  ( paling atas pada hasil pencarian )
 3. Pilih add feature untuk menginstall chrome dan tunggu sampai instalasi selesai.
 4. Buka ekstension POSTMAN
-5. 
+5. Tampilan postman akan seperti berikut
+6. ![](https://raw.githubusercontent.com/firliilhami/API/master/gambar%20postman.png)
+7. Pada lingkaran yang berwarna oranye ubah menjadi POST
+8. Pada kotak berwarna biru isi dengan url server saya yaitu http://firliilhami.pythonanywhere.com/api
+9. Pilih Body yaitu kotak coklat
+10. Lalu inputan value yang diingiinkan dituliskan pada kotak bewarna kuning . Bagaimana cara menuliskan inputannya diberitahu pada bagian selanjutnya.
+11. Terakhir klik Send
+
+#### Bagaimana cara menuliskan inputnya
+Jika hanya menginputkan 1 data customer :
+*Contoh : {"BILL_AMT1":12000,"BILL_AMT2":10000,"BIL_AMT3":11000}
+
+Jika menginput lebih dari 1 data customer (menggunakan tanda [ data1,data2,..,data n] :
+ * Contoh 10 data customer : {"BILL_AMT1":[12000,120000,21000,31000,145000,12000,120000,21000,31000,145000],
+ "BILL_AMT2":[10000,135000,10000,14000,17500,10000,135000,10000,14000,17500],"BIL_AMT3":[22000,110000,19000,29000,8000,22000,110000,19000,29000,8000]}
+
+
 
